@@ -15,6 +15,12 @@ npm install express
 npm install cors body-parser
 npm install mysql2
 npm install dotenv
+Create a .env, filling in the following information:
+    DB_HOST=
+    DB_USER=
+    DB_PASSWORD=
+    DB_NAME=paris2024
+
 
 ### Set up the MySQL database:
 Copy code in MySQL
