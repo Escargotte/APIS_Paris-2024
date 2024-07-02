@@ -1,4 +1,5 @@
-This API provides a solution to manage information about the Female Athletes of the Paris 2024 Olympic and Paralympics Games. It can be used for information, betting, data gathering and statistic purposes.
+This fictional API provides a solution to manage information about the Female Athletes of the Paris 2024 Olympic and Paralympics Games. It can be used for information, live-commentating, predictive analytics, betting, data gathering and statistic purposes.
+The medals for the countries and athletes are purely fictional, especially with regards to altheteID:10!
 
 # Olympics 2024 API
 
